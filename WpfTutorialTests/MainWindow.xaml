@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfTutorialTests.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfTutorialTests"
+        mc:Ignorable="d"
+        Title="Tutorial Tests" Height="350" Width="525" SizeToContent="WidthAndHeight">
+    <Grid>
+        <TextBlock Background="Azure" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72">Hi All...</TextBlock>
+        <Button>
+            <Button.FontWeight>Bold</Button.FontWeight>
+            <Button.FontSize>32</Button.FontSize>
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Blue">Multi-</TextBlock>
+                    <TextBlock Foreground="Red">Color</TextBlock>
+                    <TextBlock>Button</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

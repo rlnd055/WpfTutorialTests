@@ -1,0 +1,15 @@
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\bin\Debug\WpfTutorialTests.exe.config
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\bin\Debug\WpfTutorialTests.exe
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\bin\Debug\WpfTutorialTests.pdb
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.csprojResolveAssemblyReference.cache
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\MainWindow.g.cs
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\App.g.cs
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests_MarkupCompile.cache
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests_MarkupCompile.lref
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\MainWindow.baml
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.g.resources
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.Properties.Resources.resources
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.csproj.GenerateResource.Cache
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.exe
+C:\Users\Adm\source\repos\WpfTutorialTests\WpfTutorialTests\obj\Debug\WpfTutorialTests.pdb
